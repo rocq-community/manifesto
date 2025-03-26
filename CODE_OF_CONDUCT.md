@@ -1,8 +1,8 @@
 # Code of conduct #
 
-coq-community members are committed to maintaining a welcoming, civil and
+Rocq-community members are committed to maintaining a welcoming, civil and
 constructive environment. We expect the following standards to be observed and
-upheld by all participants in any coq-community forum (GitHub, Zulip, etc.).
+upheld by all participants in any Rocq-community forum (GitHub, Zulip, etc.).
 
 **Be respectful and inclusive.** Please do not use overtly sexual language or
 imagery, and do not attack anyone based on any aspect of personal identity,
@@ -13,14 +13,14 @@ prejudiced, sexual or political jokes and comments – even ones that you might
 consider acceptable in private. Ask yourself if a comment or statement might
 make someone feel unwelcomed or like an outsider.
 
-**Give credit.** All participants in coq-community are expected to respect
+**Give credit.** All participants in Rocq-community are expected to respect
 copyright laws and ethical attribution standards. This applies to both code and
 written materials, such as documentation or blog posts. Materials that violate
 the law, are plagiaristic, or ethically dubious in some way will be removed
 from officially-maintained lists of resources.
 
 If you believe one of these standards has been violated, please either file an
-issue on an appropriate repository, or contact any member of coq-community (at
+issue on an appropriate repository, or contact any member of Rocq-community (at
 your discretion). Keep in mind that most mistakes are due to ignorance rather
 than malice.
 
@@ -29,8 +29,8 @@ high-traffic forums do not generally have the bandwidth for extensive
 discourse. Consider writing a blog post if you feel that you have enough to say
 on a particular subject.
 
-**Get involved.** coq-community is built on a foundation of reciprocity and
-collaboration. Be aware that coq-community members contribute on a voluntary
+**Get involved.** Rocq-community is built on a foundation of reciprocity and
+collaboration. Be aware that Rocq-community members contribute on a voluntary
 basis, so ideas and bug reports are ok, but demands are not. Pull requests are
 always welcomed – see the [guidelines for contributing](CONTRIBUTING.md) to
 read about how to get started.
