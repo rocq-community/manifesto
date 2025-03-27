@@ -42,11 +42,11 @@ Projects can be hosted in Rocq-community whenever any of the following is the ca
 - the project is a tool of general interest and it makes sense to develop it
   collaboratively.
 
-Each project under the umbrella of rocq-community has one or several official
+Each project under the umbrella of Rocq-community has one or several official
 maintainer(s), but the maintenance effort is done collaboratively. Users need
-not be afraid of volunteering to be the official maintainer of a rocq-community
+not be afraid of volunteering to be the official maintainer of a Rocq-community
 project because they can step down at anytime. Changing the maintainer of a
-rocq-community project can be done very easily without the hassle of moving its
+Rocq-community project can be done very easily without the hassle of moving its
 location too.
 
 Maintenance is allowed to go much further than just updating the package to
@@ -72,7 +72,7 @@ including detailed documentation and exercises. Your contributions are welcome!
 
 ### Advertising interesting packages ###
 
-Not all the packages that are transferred to rocq-community have the same initial
+Not all the packages that are transferred to Rocq-community have the same initial
 quality. While this should not stop packages from being taken over, and new
 maintainers should strive to improve the package quality, some editorial work
 is also required to put forward the most interesting packages, be it for
@@ -210,7 +210,7 @@ editorial work.
 
 - **What kind of permissions do the members have?**
 
-  Members of the rocq-community organization have write-access to all
+  Members of the Rocq-community organization have write-access to all
   the repositories.  This permission should be used wisely: only minor
   fixes should be pushed without going through pull requests, and pull
   requests should preferably be approved by the project maintainer
@@ -238,13 +238,13 @@ editorial work.
 
 - **Why this name?**
 
-  The Rocq-community organization takes its inspiration from the similar-named
-  [elm-community](https://github.com/elm-community).
+  The Rocq-community organization takes its inspiration from the similarly-named
+  [Elm Community](https://github.com/elm-community).
   Here are some other sister organizations:
-  - [ocaml-community](https://github.com/ocaml-community/) (officially inspired
-    by elm-community and rocq-community)
-  - [nix-community](https://github.com/nix-community/)
-  - [reasonml-community](https://github.com/reasonml-community/)
+  - [OCaml Community](https://github.com/ocaml-community) (officially inspired
+    by Elm Community and Rocq-community)
+  - [Nix community projects](https://github.com/nix-community)
+  - [reasonml-community](https://github.com/reasonml-community)
 
 - **Who made this awesome logo?**
 
