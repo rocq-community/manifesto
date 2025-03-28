@@ -11,7 +11,7 @@
 [zulip-shield]: https://img.shields.io/badge/chat-on%20zulip-%23c1272d.svg
 [zulip-link]: https://rocq-prover.zulipchat.com/#narrow/stream/237663-rocq-community-devs.20.26.20users
 
-# [![Rocq-community](logo.svg)](https://github.com/rocq-community) #
+# [<picture><source media="(prefers-color-scheme: dark)" srcset="./logo-white.svg"><img alt="Rocq-community logo" src="logo.svg"></picture>](https://github.com/rocq-community) #
 
 A project for a collaborative, community-driven effort for the long-term
 maintenance and advertisement of packages for the [Rocq Prover][rocq-prover].
