@@ -137,13 +137,14 @@ editorial work.
   the Platform. To the Rocq Platform, Rocq-community is one organization among many
   that host Platform packages.
 
-- **What is the relation to rocq-archive?**
+- **What is the relation to the Rocq Prover Archive?**
 
-  [rocq-archive][archive] contains mainly repositories from the old contribs distribution,
-  compatibility testing and maintenance model for Coq. There used to be a form allowing
-  users to submit a package that the Coq development team would then maintain.
-  While distribution now happens through the Rocq package index and compatibility
-  testing is done via Rocq's CI, maintenance of legacy contribs is not done regularly.
+  The [Rocq Prover Archive][rocq-archive] organization contains mainly repositories
+  from the old contribs distribution, compatibility testing and maintenance model for Coq.
+  There used to be a form allowing users to submit a package that the Coq development
+  team would then maintain. While distribution now happens through the Rocq package
+  index and compatibility testing is done via Rocq's CI, maintenance of legacy contribs
+  is not done regularly.
 
   Rocq-community is a proposed replacement for the long-term maintenance of
   Rocq packages. Whereas contribs were maintained by the Coq development team,
@@ -204,7 +205,7 @@ editorial work.
 
   When a package loses its interest because a newer, better alternative has
   been found, or for some other reason, the package can be marked as deprecated
-  and stop being maintained. We will generally [archive][archive] the
+  and stop being maintained. We will generally [archive][archived] the
   repository rather than removing it completely though. It also happens that
   we archive a repository because its content has been merged in another one.
 
@@ -261,9 +262,11 @@ Is anything still unclear? Please [open an issue][meta] or
 
 [fsf-free-software-license]: https://www.gnu.org/licenses/license-list.html
 
-[archive]: https://github.com/rocq-community?utf8=%E2%9C%93&q=&type=archived
+[rocq-archive]: https://github.com/rocq-archive
 
-[rocq-ci]: https://github.com/coq/coq/blob/master/dev/ci/README.md
+[archived]: https://github.com/rocq-community?type=archived
+
+[rocq-ci]: https://github.com/rocq-prover/rocq/blob/master/dev/ci/README.md
 
 [meta]: https://github.com/rocq-community/manifesto/issues/new?template=meta.md
 
@@ -271,14 +274,12 @@ Is anything still unclear? Please [open an issue][meta] or
 
 [templates]: https://github.com/rocq-community/templates
 
-[archive]: https://github.com/rocq-archive
-
 [package-index]: https://rocq-prover.org/packages
 
-[platform]: https://github.com/coq/platform
+[platform]: https://github.com/rocq-prover/platform
 
-[rocq-community-platform]: https://github.com/search?q=topic%3Acoq-platform+org%3Arocq-community&type=Repositories
+[rocq-community-platform]: https://github.com/search?q=topic%3Arocq-platform+org%3Arocq-community&type=Repositories
 
-[rocq-community-ci]: https://github.com/search?q=topic%3Acoq-ci+org%3Arocq-community&type=Repositories
+[rocq-community-ci]: https://github.com/search?q=topic%3Arocq-ci+org%3Arocq-community&type=Repositories
 
 [opam]: https://opam.ocaml.org
